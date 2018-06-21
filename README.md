@@ -1,6 +1,6 @@
 Microsoft’s ClearType fonts (Windows Vista Fonts)
 
-You can install using my own script for easily install Microsoft Vista TrueType Fonts (TTF).
+You can install using this script for easily install Microsoft Vista TrueType Fonts (TTF).
 
 This package installs the following fonts:
 
