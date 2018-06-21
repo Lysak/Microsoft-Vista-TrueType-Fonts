@@ -14,3 +14,6 @@ Cambria Math
 For install on Ubuntu:
 
 wget https://gist.githubusercontent.com/Lysak/b98d72857dfe0af7154798a4f38cdf8e/raw/d80decb16adcb019a871e53a95ed190dcfb9a6c3/ttf-vista-fonts-installer.sh -q -O - | sudo bash
+
+Source:
+https://needforbits.wordpress.com/2017/07/19/install-microsoft-windows-fonts-on-ubuntu-the-ultimate-guide/
